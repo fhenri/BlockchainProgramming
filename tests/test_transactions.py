@@ -81,5 +81,5 @@ class TestTransactions:
         
         # all invalid transactions for one reason or another
         for t in [Tx4, Tx5, Tx6, Tx7, Tx8, Tx81, Tx9]:
-            assert not t.is_valid()
+            assert not t.is_valid(), f"{t} invalid"
     

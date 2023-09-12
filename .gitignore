@@ -14,6 +14,7 @@ dist/
 # Unit test / coverage reports
 .coverage
 .coverage.*
+tests/data/*.dat
 
 # Environments
 env/
