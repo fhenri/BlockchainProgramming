@@ -49,8 +49,7 @@ class TxBlock (CBlock):
                 return self.nonce  
         return None
 
-    # some private methods
-    def __count_totals(self):
+    def count_totals(self):
         total_in = 0
         total_out = 0
         
