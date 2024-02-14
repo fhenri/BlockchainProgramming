@@ -1,5 +1,5 @@
 # BlockchainProgramming
-From Blockain Programming course at Udemy https://www.udemy.com/course/build-your-own-cryptocurrency-in-48-hours
+From Blockain Programming course at Udemy https://www.udemy.com/course/build-your-own-cryptocurrency-in-48-hours mainly adding test to the course code
 
 ## Installation
 
